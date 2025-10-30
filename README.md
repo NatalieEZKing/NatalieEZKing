@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Natalie 👋  
 
-<!--
-**NatalieEZKing/NatalieEZKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Technology & Transformation Director with experience leading enterprise-wide digital change across infrastructure, SaaS platforms, and business systems.  
+I’m passionate about simplifying complexity, building inclusive teams, and aligning technology strategy with business outcomes.  
 
-Here are some ideas to get you started:
+💼 Areas of focus:  
+- IT & Digital Strategy  
+- SaaS & Platform Consolidation  
+- Vendor Management & Governance  
+- Cloud, Security & Data Integration  
+- Change Leadership & Culture Transformation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nkdigitalleader/)
